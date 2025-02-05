@@ -3,6 +3,7 @@ This project applies clustering algorithms to categorize world countries based o
 
 📌 Project Overview
 Machine Learning Methods Used:
+
 ✅ Principal Component Analysis (PCA) for dimensionality reduction
 
 ✅ Clustering Algorithms:
