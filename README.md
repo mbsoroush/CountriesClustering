@@ -1,7 +1,8 @@
 # Countries Clustering 🌍
 This project applies clustering algorithms to categorize world countries based on socio-economic and health indicators. The goal is to identify patterns in development and assist organizations like HELP International in making data-driven decisions for resource allocation.
 
-📌 Project Overview
+### 📌 Project Overview
+
 Machine Learning Methods Used:
 
 ✅ Principal Component Analysis (PCA) for dimensionality reduction
