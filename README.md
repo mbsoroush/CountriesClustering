@@ -1,7 +1,11 @@
 # Countries Clustering 🌍
 This project applies clustering algorithms to categorize world countries based on socio-economic and health indicators. The goal is to identify patterns in development and assist organizations like HELP International in making data-driven decisions for resource allocation.
 
-### 📌 Project Overview
+## 📦 Dataset
+The dataset used in this project is available on my Kaggle page:  
+👉 [Google Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
+
+## 📌 Project Overview
 
 Machine Learning Methods Used:
 
