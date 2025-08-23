@@ -3,7 +3,7 @@ This project applies clustering algorithms to categorize world countries based o
 
 ## 📦 Dataset
 The dataset used in this project is available on my Kaggle page:  
-👉 [Google Dataset](https://www.kaggle.com/datasets/mbsoroush/google-dataset)
+👉 [Countries Clustering](https://www.kaggle.com/code/mbsoroush/countries-clustering)
 
 ## 📌 Project Overview
 
