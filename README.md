@@ -6,26 +6,25 @@ The dataset used in this project is available on my Kaggle page:
 👉 [Countries Clustering](https://www.kaggle.com/code/mbsoroush/countries-clustering)
 
 ## 📌 Project Overview
-
 Machine Learning Methods Used:
 
 ✅ Principal Component Analysis (PCA) for dimensionality reduction
 
 ✅ Clustering Algorithms:
-K-Means
-Hierarchical Clustering
-Gaussian Mixture Model
-Mini-batch K-Means
-DBSCAN
+-  K-Means
+-  Hierarchical Clustering
+-  Gaussian Mixture Model
+-  Mini-batch K-Means
+-  DBSCAN
 
 
 📊 Evaluation Metrics:
-Silhouette Score
-Calinski-Harabasz Index
-Davies-Bouldin Index
+-  Silhouette Score
+-  Calinski-Harabasz Index
+-  Davies-Bouldin Index
 
 
 🚀 Technologies Used:
-Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Plotly)
-Clustering & PCA for unsupervised learning
-Visualization tools for insights
+-  Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Plotly)
+-  Clustering & PCA for unsupervised learning
+-  Visualization tools for insights
