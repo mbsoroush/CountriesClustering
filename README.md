@@ -19,14 +19,14 @@ The dataset used in this project is available on my Kaggle page:
 
 
 
-#### 📊 Evaluation Metrics:
+📊 Evaluation Metrics:
 -  Silhouette Score
 -  Calinski-Harabasz Index
 -  Davies-Bouldin Index
 
 
 
-#### 🚀 Technologies Used:
+🚀 Technologies Used:
 -  Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Plotly)
 -  Clustering & PCA for unsupervised learning
 -  Visualization tools for insights
